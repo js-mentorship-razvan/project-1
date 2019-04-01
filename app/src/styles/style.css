@@ -7,6 +7,9 @@ button {
     margin: 0 auto;
 }
 
+#display {
+    padding: 10px;
+}
 body {
     font-family: 'Roboto', sans-serif;
 }
