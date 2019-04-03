@@ -9,7 +9,9 @@ button {
 
 #display {
     padding: 10px;
+    text-align: center;
 }
+
 body {
     font-family: 'Roboto', sans-serif;
 }
