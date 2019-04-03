@@ -6,4 +6,5 @@ This project generates a random quote from a local database, each time when `Gen
 
 ## Project outcomes: 
 - learn how to implement fonts from an external source in HTML file;
-- learn how to use `Math.floor()` and `Math.random()` to select a random item from my database.
+- learn how to use `Math.floor()` and `Math.random()` to select a random item from my database;
+- learn how to use [Node.textContent](https://devdocs.io/dom/node/textcontent).
